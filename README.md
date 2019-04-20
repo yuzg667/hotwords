@@ -21,8 +21,10 @@
 
 #### 返回结果都会以字典List形式返回：
 [
+
 {"num":1,"query":热搜词1,"heat":999,"jumpHref":http://123.html?k=111},
 
 {"num":2,"query":热搜词2,"heat":888,"jumpHref":http://123.html?k=222}
+
 ]
 
